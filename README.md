@@ -30,3 +30,8 @@ To run the Tic-Tac-Toe game locally, follow these steps:
 
 2. cd Tic-Tac-Toe
 
+## How to Run
+1. Clone the repository to your local machine.
+2. Open the index.html file in any modern web browser.
+3. Start playing!
+
