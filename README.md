@@ -31,8 +31,8 @@ To run the Tic-Tac-Toe game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-
+   git clone https://github.com/Mithun-AM/Tic-Tac-Toe.git
+   
 2. cd Tic-Tac-Toe
 
 ## How to Run
