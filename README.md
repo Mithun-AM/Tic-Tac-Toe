@@ -28,5 +28,5 @@ To run the Tic-Tac-Toe game locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/tic-tac-toe.git
 
-2. cd tic-tac-toe
+2. cd Tic-Tac-Toe
 
