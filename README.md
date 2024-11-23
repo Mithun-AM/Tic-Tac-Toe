@@ -4,6 +4,11 @@
 
 This is a classic Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The game allows two players (or one player against the computer, if you decide to extend it) to play a game of Tic-Tac-Toe. The user can click on the grid to place 'X' or 'O', and the game checks for a winner or draw after each move.
 
+## Deployment
+
+Here is the link to the deployed version of the game:  
+[Tic-Tac-Toe - GitHub Pages](https://mithun-am.github.io/Tic-Tac-Toe/)
+
 ## Features
 
 - **Two-player gameplay:** Players take turns placing 'X' or 'O' on the grid.
