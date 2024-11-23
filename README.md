@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is a classic Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The game allows two players (or one player against the computer, if you decide to extend it) to play a game of Tic-Tac-Toe. The user can click on the grid to place 'X' or 'O', and the game checks for a winner or draw after each move.
+This is a classic Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The game allows two players to play a game of Tic-Tac-Toe. The user can click on the grid to place 'X' or 'O', and the game checks for a winner or draw after each move.
 
 ## Deployment
 
